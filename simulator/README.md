@@ -29,4 +29,4 @@ basic ns-3 (netanim and ns-3-dev) is to type:
 ./download.py
 ./build.py --enable-examples --enable-tests
 ```
-and change directory to ns-3-dev for further work.
+and change directory to ns-3-dev for further work..
